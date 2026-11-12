@@ -2,6 +2,9 @@
 # Author: Ben Grove
 # Module 12 lab
 
+# Reflection 1 - First off Python is able to do much more data without using as much space as excel. It can also organize the data quickly and efficiently. Excel however is better at seeing the data from afar and is easier to picture.
+# Reflection 2 - A business could use append mode when trying to find their total revenue for the day. Each time a sale happens, they could add it to the log file.
+
 import csv
 from datetime import datetime
 
